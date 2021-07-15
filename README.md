@@ -2,9 +2,9 @@
 
 ## Introduction:
 
-- [Age](Twitter_User_Age.ipynb)
-- [prediction on Twitter labeled data](https://github.com/WangKehanK/Twitter-User-Age-Prediction-with-BERT/blob/main/data/age_prediction/Twitter_users_labeled_prediction.csv)
-- [prediction on Twitter unlabeled data(all user)](https://github.com/WangKehanK/Twitter-User-Age-Prediction-with-BERT/blob/main/data/age_prediction/Twitter_user_handles_to_prediction.csv)
+- Code: [Age](Twitter_User_Age.ipynb)
+- Result: [prediction on Twitter labeled data](https://github.com/WangKehanK/Twitter-User-Age-Prediction-with-BERT/blob/main/data/age_prediction/Twitter_users_labeled_prediction.csv)
+- Result: [prediction on Twitter unlabeled data(all user)](https://github.com/WangKehanK/Twitter-User-Age-Prediction-with-BERT/blob/main/data/age_prediction/Twitter_user_handles_to_prediction.csv)
 - If you want to reproduce the prediction for unlabeled data, you can find the Fine tuned model, and tweets data [here](https://drive.google.com/drive/folders/1dyQDSu0x5muhUSvphLyvLdck2ArkfXU0?usp=sharing)
 
 
